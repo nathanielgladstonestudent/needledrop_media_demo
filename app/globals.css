@@ -3,7 +3,7 @@
 /* Font Face Declarations */
 @font-face {
   font-family: "Unbounded";
-  src: url("/assets_fonts/Unbounded-Bold.woff2") format("woff2");
+  src: url("/needledrop_media_demo/assets_fonts/Unbounded-Bold.woff2") format("woff2");
   font-weight: 700;
   font-style: normal;
   font-display: swap;
@@ -11,7 +11,7 @@
 
 @font-face {
   font-family: "Unbounded";
-  src: url("/assets_fonts/Unbounded-Regular.woff2") format("woff2");
+  src: url("/needledrop_media_demo/assets_fonts/Unbounded-Regular.woff2") format("woff2");
   font-weight: 400;
   font-style: normal;
   font-display: swap;
@@ -19,7 +19,7 @@
 
 @font-face {
   font-family: "Karla";
-  src: url("/assets_fonts/Karla-Regular.woff2") format("woff2");
+  src: url("/needledrop_media_demo/assets_fonts/Karla-Regular.woff2") format("woff2");
   font-weight: 400;
   font-style: normal;
   font-display: swap;
@@ -27,7 +27,7 @@
 
 @font-face {
   font-family: "Karla";
-  src: url("/assets_fonts/Karla-Medium.woff2") format("woff2");
+  src: url("/needledrop_media_demo/assets_fonts/Karla-Medium.woff2") format("woff2");
   font-weight: 500;
   font-style: normal;
   font-display: swap;
@@ -35,7 +35,7 @@
 
 @font-face {
   font-family: "Karla";
-  src: url("/assets_fonts/Karla-SemiBold.woff2") format("woff2");
+  src: url("/needledrop_media_demo/assets_fonts/Karla-SemiBold.woff2") format("woff2");
   font-weight: 600;
   font-style: normal;
   font-display: swap;
@@ -43,7 +43,7 @@
 
 @font-face {
   font-family: "Karla";
-  src: url("/assets_fonts/Karla-Bold.woff2") format("woff2");
+  src: url("/needledrop_media_demo/assets_fonts/Karla-Bold.woff2") format("woff2");
   font-weight: 700;
   font-style: normal;
   font-display: swap;
@@ -51,7 +51,7 @@
 
 @font-face {
   font-family: "Karla";
-  src: url("/assets_fonts/Karla-Light.woff2") format("woff2");
+  src: url("/needledrop_media_demo/assets_fonts/Karla-Light.woff2") format("woff2");
   font-weight: 300;
   font-style: normal;
   font-display: swap;

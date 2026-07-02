@@ -24,12 +24,12 @@ export default function Home() {
           </div>
           <div className="flex items-center gap-4">
             <span className="text-white text-sm">Welcome, Michael</span>
-            <img src="/assets/107_HeaderProfileModelight_dark_switchmoon.png" alt="Theme" className="w-6 h-6 cursor-pointer" />
+            <img src="/needledrop_media_demo/assets/107_HeaderProfileModelight_dark_switchmoon.png" alt="Theme" className="w-6 h-6 cursor-pointer" />
             <div className="relative">
-              <img src="/assets/105_HeaderProfileNotificationNotification.png" alt="Notifications" className="w-6 h-6 cursor-pointer" />
+              <img src="/needledrop_media_demo/assets/105_HeaderProfileNotificationNotification.png" alt="Notifications" className="w-6 h-6 cursor-pointer" />
               <span className="absolute -top-1 -right-1 bg-yellow-400 text-black text-xs rounded-full w-4 h-4 flex items-center justify-center font-bold">2</span>
             </div>
-            <img src="/assets/099_HeaderProfilePIC_masked.png" alt="Profile" className="w-10 h-10 rounded-full" />
+            <img src="/needledrop_media_demo/assets/099_HeaderProfilePIC_masked.png" alt="Profile" className="w-10 h-10 rounded-full" />
           </div>
         </header>
 
@@ -42,7 +42,7 @@ export default function Home() {
               {/* Movie Poster */}
               <div className="w-[180px] flex-shrink-0 bg-black flex items-center justify-center">
                 <img
-                  src="/assets/098_YOU_JUST_WATCHEDCITY_BLOCKS_copy_5.png"
+                  src="/needledrop_media_demo/assets/098_YOU_JUST_WATCHEDCITY_BLOCKS_copy_5.png"
                   alt="City Blocks"
                   className="w-full h-full object-cover"
                 />
@@ -70,7 +70,7 @@ export default function Home() {
             <div className="bg-[#151a1f] rounded-lg mb-2 flex overflow-hidden" style={{ height: '120px' }}>
               <div className="w-[120px] flex-shrink-0 bg-[#1a1a1a] flex items-center justify-center">
                 <img
-                  src="/assets/096_YOUR_OTHER_STREAMERSSPOTIFYSPOTIFY.png"
+                  src="/needledrop_media_demo/assets/096_YOUR_OTHER_STREAMERSSPOTIFYSPOTIFY.png"
                   alt="Spotify"
                   className="w-16 h-16 object-contain"
                 />
@@ -83,28 +83,28 @@ export default function Home() {
                 
                 <div className="flex gap-2 flex-1 min-h-0">
                   <div className="flex-1 rounded-lg overflow-hidden flex flex-col min-w-0">
-                    <img src="/assets/080_YOUR_OTHER_STREAMERSSPOTIFY01.png" alt="SZA" className="w-full h-14 object-cover flex-shrink-0" />
+                    <img src="/needledrop_media_demo/assets/080_YOUR_OTHER_STREAMERSSPOTIFY01.png" alt="SZA" className="w-full h-14 object-cover flex-shrink-0" />
                     <div className="text-white text-xs py-0.5 px-1 flex-shrink-0">
                       <div className="font-bold truncate">SZA</div>
                       <div className="text-[10px] text-zinc-400 truncate font-bold">Artist</div>
                     </div>
                   </div>
                   <div className="flex-1 rounded-lg overflow-hidden flex flex-col min-w-0">
-                    <img src="/assets/084_YOUR_OTHER_STREAMERSSPOTIFY02.png" alt="ScHoolboy Q" className="w-full h-14 object-cover flex-shrink-0" />
+                    <img src="/needledrop_media_demo/assets/084_YOUR_OTHER_STREAMERSSPOTIFY02.png" alt="ScHoolboy Q" className="w-full h-14 object-cover flex-shrink-0" />
                     <div className="text-white text-xs py-0.5 px-1 flex-shrink-0">
                       <div className="font-bold truncate">ScHoolboy Q</div>
                       <div className="text-[10px] text-zinc-400 truncate font-bold">Artist</div>
                     </div>
                   </div>
                   <div className="flex-1 rounded-lg overflow-hidden flex flex-col min-w-0">
-                    <img src="/assets/088_YOUR_OTHER_STREAMERSSPOTIFY03.png" alt="Baby Keem" className="w-full h-14 object-cover flex-shrink-0" />
+                    <img src="/needledrop_media_demo/assets/088_YOUR_OTHER_STREAMERSSPOTIFY03.png" alt="Baby Keem" className="w-full h-14 object-cover flex-shrink-0" />
                     <div className="text-white text-xs py-0.5 px-1 flex-shrink-0">
                       <div className="font-bold truncate">Baby Keem</div>
                       <div className="text-[10px] text-zinc-400 truncate font-bold">Artist</div>
                     </div>
                   </div>
                   <div className="flex-1 rounded-lg overflow-hidden flex flex-col min-w-0">
-                    <img src="/assets/092_YOUR_OTHER_STREAMERSSPOTIFY04.png" alt="Doechii" className="w-full h-14 object-cover flex-shrink-0" />
+                    <img src="/needledrop_media_demo/assets/092_YOUR_OTHER_STREAMERSSPOTIFY04.png" alt="Doechii" className="w-full h-14 object-cover flex-shrink-0" />
                     <div className="text-white text-xs py-0.5 px-1 flex-shrink-0">
                       <div className="font-bold truncate">Doechii</div>
                       <div className="text-[10px] text-zinc-400 truncate font-bold">Artist</div>
@@ -118,7 +118,7 @@ export default function Home() {
             <div className="bg-[#151a1f] rounded-lg mb-2 flex overflow-hidden" style={{ height: '120px' }}>
               <div className="w-[120px] flex-shrink-0 bg-[#1a1a1a] flex items-center justify-center">
                 <img
-                  src="/assets/077_YOUR_OTHER_STREAMERSNETFLIXNET.png"
+                  src="/needledrop_media_demo/assets/077_YOUR_OTHER_STREAMERSNETFLIXNET.png"
                   alt="Netflix"
                   className="w-16 h-16 object-contain"
                 />
@@ -131,28 +131,28 @@ export default function Home() {
                 
                 <div className="flex gap-2 flex-1 min-h-0">
                   <div className="flex-1 rounded-lg overflow-hidden flex flex-col min-w-0">
-                    <img src="/assets/061_YOUR_OTHER_STREAMERSNETFLIX01.png" alt="Dope" className="w-full h-14 object-cover flex-shrink-0" />
+                    <img src="/needledrop_media_demo/assets/061_YOUR_OTHER_STREAMERSNETFLIX01.png" alt="Dope" className="w-full h-14 object-cover flex-shrink-0" />
                     <div className="text-white text-xs py-0.5 px-1 flex-shrink-0">
                       <div className="font-bold truncate">Dope</div>
                       <div className="text-[10px] text-zinc-400 truncate font-bold">Movie</div>
                     </div>
                   </div>
                   <div className="flex-1 rounded-lg overflow-hidden flex flex-col min-w-0">
-                    <img src="/assets/065_YOUR_OTHER_STREAMERSNETFLIX02.png" alt="You People" className="w-full h-14 object-cover flex-shrink-0" />
+                    <img src="/needledrop_media_demo/assets/065_YOUR_OTHER_STREAMERSNETFLIX02.png" alt="You People" className="w-full h-14 object-cover flex-shrink-0" />
                     <div className="text-white text-xs py-0.5 px-1 flex-shrink-0">
                       <div className="font-bold truncate">You People</div>
                       <div className="text-[10px] text-zinc-400 truncate font-bold">Movie</div>
                     </div>
                   </div>
                   <div className="flex-1 rounded-lg overflow-hidden flex flex-col min-w-0">
-                    <img src="/assets/069_YOUR_OTHER_STREAMERSNETFLIX03.png" alt="Dave" className="w-full h-14 object-cover flex-shrink-0" />
+                    <img src="/needledrop_media_demo/assets/069_YOUR_OTHER_STREAMERSNETFLIX03.png" alt="Dave" className="w-full h-14 object-cover flex-shrink-0" />
                     <div className="text-white text-xs py-0.5 px-1 flex-shrink-0">
                       <div className="font-bold truncate">Dave</div>
                       <div className="text-[10px] text-zinc-400 truncate font-bold">TV Show</div>
                     </div>
                   </div>
                   <div className="flex-1 rounded-lg overflow-hidden flex flex-col min-w-0">
-                    <img src="/assets/073_YOUR_OTHER_STREAMERSNETFLIX04.png" alt="I'm A Virgo" className="w-full h-14 object-cover flex-shrink-0" />
+                    <img src="/needledrop_media_demo/assets/073_YOUR_OTHER_STREAMERSNETFLIX04.png" alt="I'm A Virgo" className="w-full h-14 object-cover flex-shrink-0" />
                     <div className="text-white text-xs py-0.5 px-1 flex-shrink-0">
                       <div className="font-bold truncate">I&apos;m A Virgo</div>
                       <div className="text-[10px] text-zinc-400 truncate font-bold">TV Show</div>
@@ -166,7 +166,7 @@ export default function Home() {
             <div className="bg-[#151a1f] rounded-lg mb-2 flex overflow-hidden" style={{ height: '120px' }}>
               <div className="w-[120px] flex-shrink-0 bg-[#1a1a1a] flex items-center justify-center">
                 <img
-                  src="/assets/058_YOUR_OTHER_STREAMERSYOUTUBE_MUSICYOUTUBE.png"
+                  src="/needledrop_media_demo/assets/058_YOUR_OTHER_STREAMERSYOUTUBE_MUSICYOUTUBE.png"
                   alt="YouTube Music"
                   className="w-16 h-16 object-contain"
                 />
@@ -179,14 +179,14 @@ export default function Home() {
                 
                 <div className="flex justify-start flex-1 min-h-0">
                   <div className="rounded-lg overflow-hidden flex flex-col min-w-0" style={{ width: 'calc(25% - 1.5px)', marginRight: 'calc(25% + 0.5px)' }}>
-                    <img src="/assets/049_YOUR_OTHER_STREAMERSYOUTUBE_MUSIC01.png" alt="Kendrick Lamar" className="w-full h-14 object-cover flex-shrink-0" />
+                    <img src="/needledrop_media_demo/assets/049_YOUR_OTHER_STREAMERSYOUTUBE_MUSIC01.png" alt="Kendrick Lamar" className="w-full h-14 object-cover flex-shrink-0" />
                     <div className="text-white text-xs py-0.5 px-1 flex-shrink-0">
                       <div className="font-bold truncate">Kendrick Lamar</div>
                       <div className="text-[10px] text-zinc-400 truncate font-bold">Squabble Up</div>
                     </div>
                   </div>
                   <div className="rounded-lg overflow-hidden flex flex-col min-w-0" style={{ width: 'calc(25% - 1.5px)' }}>
-                    <img src="/assets/054_YOUR_OTHER_STREAMERSYOUTUBE_MUSIC01_copy.png" alt="Doechii" className="w-full h-14 object-cover flex-shrink-0" />
+                    <img src="/needledrop_media_demo/assets/054_YOUR_OTHER_STREAMERSYOUTUBE_MUSIC01_copy.png" alt="Doechii" className="w-full h-14 object-cover flex-shrink-0" />
                     <div className="text-white text-xs py-0.5 px-1 flex-shrink-0">
                       <div className="font-bold truncate">Doechii</div>
                       <div className="text-[10px] text-zinc-400 truncate font-bold">Artist channel</div>
@@ -202,7 +202,7 @@ export default function Home() {
             <div className="p-6">
               {/* Instagram Header */}
               <div className="flex items-center gap-3 mb-6">
-                <img src="/assets/046_RIGHT_PANELIG_MODULEIG.png" alt="Instagram" className="w-12 h-12" />
+                <img src="/needledrop_media_demo/assets/046_RIGHT_PANELIG_MODULEIG.png" alt="Instagram" className="w-12 h-12" />
                 <div>
                   <span className="text-white font-bold text-xl">Instagram</span>
                   <span className="text-zinc-400 text-xl"> Social</span>
@@ -215,17 +215,17 @@ export default function Home() {
                 <p className="text-zinc-400 text-sm mb-4">11 MEMBERS</p>
                 <div className="grid grid-cols-4 gap-3">
                   {[
-                    '/assets/023_RIGHT_PANELIG_MODULEJENNIJENNI.png',
-                    '/assets/024_RIGHT_PANELIG_MODULEJENNIJENNI_copy.png',
-                    '/assets/025_RIGHT_PANELIG_MODULEJENNIJENNI_copy_2.png',
-                    '/assets/026_RIGHT_PANELIG_MODULEJENNIJENNI_copy_3.png',
-                    '/assets/018_RIGHT_PANELIG_MODULEBOTTOMJENNI.png',
-                    '/assets/019_RIGHT_PANELIG_MODULEBOTTOMJENNI_copy.png',
-                    '/assets/020_RIGHT_PANELIG_MODULEBOTTOMJENNI_copy_2.png',
-                    '/assets/021_RIGHT_PANELIG_MODULEBOTTOMJENNI_copy_3.png',
-                    '/assets/029_RIGHT_PANELIG_MODULEJENNI_copy_2.png',
-                    '/assets/030_RIGHT_PANELIG_MODULEJENNI_copy_3.png',
-                    '/assets/022_RIGHT_PANELIG_MODULEJENNILayer_1457_masked.png',
+                    '/needledrop_media_demo/assets/023_RIGHT_PANELIG_MODULEJENNIJENNI.png',
+                    '/needledrop_media_demo/assets/024_RIGHT_PANELIG_MODULEJENNIJENNI_copy.png',
+                    '/needledrop_media_demo/assets/025_RIGHT_PANELIG_MODULEJENNIJENNI_copy_2.png',
+                    '/needledrop_media_demo/assets/026_RIGHT_PANELIG_MODULEJENNIJENNI_copy_3.png',
+                    '/needledrop_media_demo/assets/018_RIGHT_PANELIG_MODULEBOTTOMJENNI.png',
+                    '/needledrop_media_demo/assets/019_RIGHT_PANELIG_MODULEBOTTOMJENNI_copy.png',
+                    '/needledrop_media_demo/assets/020_RIGHT_PANELIG_MODULEBOTTOMJENNI_copy_2.png',
+                    '/needledrop_media_demo/assets/021_RIGHT_PANELIG_MODULEBOTTOMJENNI_copy_3.png',
+                    '/needledrop_media_demo/assets/029_RIGHT_PANELIG_MODULEJENNI_copy_2.png',
+                    '/needledrop_media_demo/assets/030_RIGHT_PANELIG_MODULEJENNI_copy_3.png',
+                    '/needledrop_media_demo/assets/022_RIGHT_PANELIG_MODULEJENNILayer_1457_masked.png',
                   ].map((src, i) => (
                     <img key={i} src={src} alt={`Fan ${i + 1}`} className="w-full h-auto rounded-full" />
                   ))}
@@ -238,10 +238,10 @@ export default function Home() {
                 <p className="text-zinc-400 text-sm mb-4">4 MEMBERS</p>
                 <div className="grid grid-cols-4 gap-3">
                   {[
-                    '/assets/031_RIGHT_PANELIG_MODULECITY_BLOCK_-_FOLLOW_YOUJENNI_c.png',
-                    '/assets/032_RIGHT_PANELIG_MODULECITY_BLOCK_-_FOLLOW_YOUJENNI_c.png',
-                    '/assets/033_RIGHT_PANELIG_MODULECITY_BLOCK_-_FOLLOW_YOUJENNI_c.png',
-                    '/assets/034_RIGHT_PANELIG_MODULECITY_BLOCK_-_FOLLOW_YOUJENNI_c.png',
+                    '/needledrop_media_demo/assets/031_RIGHT_PANELIG_MODULECITY_BLOCK_-_FOLLOW_YOUJENNI_c.png',
+                    '/needledrop_media_demo/assets/032_RIGHT_PANELIG_MODULECITY_BLOCK_-_FOLLOW_YOUJENNI_c.png',
+                    '/needledrop_media_demo/assets/033_RIGHT_PANELIG_MODULECITY_BLOCK_-_FOLLOW_YOUJENNI_c.png',
+                    '/needledrop_media_demo/assets/034_RIGHT_PANELIG_MODULECITY_BLOCK_-_FOLLOW_YOUJENNI_c.png',
                   ].map((src, i) => (
                     <img key={i} src={src} alt={`Follower ${i + 1}`} className="w-full h-auto rounded-full" />
                   ))}
@@ -254,13 +254,13 @@ export default function Home() {
                 <p className="text-zinc-400 text-sm mb-4">7 MEMBERS</p>
                 <div className="grid grid-cols-4 gap-3">
                   {[
-                    '/assets/035_RIGHT_PANELIG_MODULECITY_BLOCK_-_YOU_FOLLOWJENNI_0.png',
-                    '/assets/036_RIGHT_PANELIG_MODULECITY_BLOCK_-_YOU_FOLLOWJENNI_0.png',
-                    '/assets/037_RIGHT_PANELIG_MODULECITY_BLOCK_-_YOU_FOLLOWJENNI_0.png',
-                    '/assets/038_RIGHT_PANELIG_MODULECITY_BLOCK_-_YOU_FOLLOWJENNI_0.png',
-                    '/assets/039_RIGHT_PANELIG_MODULECITY_BLOCK_-_YOU_FOLLOWJENNI_0.png',
-                    '/assets/040_RIGHT_PANELIG_MODULECITY_BLOCK_-_YOU_FOLLOWJENNI_0.png',
-                    '/assets/041_RIGHT_PANELIG_MODULECITY_BLOCK_-_YOU_FOLLOWJENNI_0.png',
+                    '/needledrop_media_demo/assets/035_RIGHT_PANELIG_MODULECITY_BLOCK_-_YOU_FOLLOWJENNI_0.png',
+                    '/needledrop_media_demo/assets/036_RIGHT_PANELIG_MODULECITY_BLOCK_-_YOU_FOLLOWJENNI_0.png',
+                    '/needledrop_media_demo/assets/037_RIGHT_PANELIG_MODULECITY_BLOCK_-_YOU_FOLLOWJENNI_0.png',
+                    '/needledrop_media_demo/assets/038_RIGHT_PANELIG_MODULECITY_BLOCK_-_YOU_FOLLOWJENNI_0.png',
+                    '/needledrop_media_demo/assets/039_RIGHT_PANELIG_MODULECITY_BLOCK_-_YOU_FOLLOWJENNI_0.png',
+                    '/needledrop_media_demo/assets/040_RIGHT_PANELIG_MODULECITY_BLOCK_-_YOU_FOLLOWJENNI_0.png',
+                    '/needledrop_media_demo/assets/041_RIGHT_PANELIG_MODULECITY_BLOCK_-_YOU_FOLLOWJENNI_0.png',
                   ].map((src, i) => (
                     <img key={i} src={src} alt={`KL Fan ${i + 1}`} className="w-full h-auto rounded-full" />
                   ))}

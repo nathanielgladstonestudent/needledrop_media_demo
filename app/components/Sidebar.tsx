@@ -8,11 +8,11 @@ export default function Sidebar() {
   const [isNewsOpen, setIsNewsOpen] = useState(false);
 
   const menuItems = [
-    { name: 'Dashboard', icon: '/assets/013_SidebarMenuMenuIconActivityGraph.png', href: '#dashboard' },
-    { name: 'Discover', icon: '/assets/011_SidebarMenuMenuIconActivityDiscovery.png', href: '#discover' },
-    { name: 'Trending', icon: '/assets/008_SidebarMenuIconActivityActivity.png', href: '#trending' },
-    { name: 'Your Videos', icon: '/assets/003_SidebarYOUR_VIDEOSMenuIconActivityVideo.png', href: '#videos' },
-    { name: 'Chat', icon: '/assets/006_SidebarCHATMenuIconActivitySend.png', href: '#chat' },
+    { name: 'Dashboard', icon: '/needledrop_media_demo/assets/013_SidebarMenuMenuIconActivityGraph.png', href: '#dashboard' },
+    { name: 'Discover', icon: '/needledrop_media_demo/assets/011_SidebarMenuMenuIconActivityDiscovery.png', href: '#discover' },
+    { name: 'Trending', icon: '/needledrop_media_demo/assets/008_SidebarMenuIconActivityActivity.png', href: '#trending' },
+    { name: 'Your Videos', icon: '/needledrop_media_demo/assets/003_SidebarYOUR_VIDEOSMenuIconActivityVideo.png', href: '#videos' },
+    { name: 'Chat', icon: '/needledrop_media_demo/assets/006_SidebarCHATMenuIconActivitySend.png', href: '#chat' },
   ];
 
   const newsSubItems = [
@@ -27,7 +27,7 @@ export default function Sidebar() {
     <aside className="w-64 border-r border-zinc-800 h-screen sticky top-0 flex flex-col flex-shrink-0" style={{ background: 'linear-gradient(to bottom, #001924, #000000)' }}>
       {/* Logo/Header */}
       <div className="p-6 border-b border-zinc-800">
-        <img src="/assets/110_HeaderNDM.png" alt="NeedleDrop Media" className="h-8" />
+        <img src="/needledrop_media_demo/assets/110_HeaderNDM.png" alt="NeedleDrop Media" className="h-8" />
       </div>
 
       {/* Menu Items */}
@@ -61,7 +61,7 @@ export default function Sidebar() {
               }`}
             >
               <div className="flex items-center gap-3">
-                <img src="/assets/009_SidebarMenuMenuIconActivityPaper.png" alt="News" className="w-5 h-5" />
+                <img src="/needledrop_media_demo/assets/009_SidebarMenuMenuIconActivityPaper.png" alt="News" className="w-5 h-5" />
                 <span className="font-medium">News</span>
               </div>
               <span className={`transition-transform duration-250 ease-out ${isNewsOpen ? 'rotate-180' : ''}`}>
@@ -106,7 +106,7 @@ export default function Sidebar() {
                   : 'text-zinc-700 dark:text-zinc-300 hover:bg-zinc-100 dark:hover:bg-zinc-800'
               }`}
             >
-              <img src="/assets/005_SidebarSETTINGSIconActivitySetting.png" alt="Settings" className="w-5 h-5" />
+              <img src="/needledrop_media_demo/assets/005_SidebarSETTINGSIconActivitySetting.png" alt="Settings" className="w-5 h-5" />
               <span className="font-medium">Settings</span>
             </Link>
           </li>
